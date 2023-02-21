@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">savenames</string>
+    <string name="name">Name</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="add_name">ADD NAME</string>
+    <string name="no_names">No names</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="no_names2">No names</string>
+    <string name="no_names_entered">No names entered</string>
+    <string name="no_names_displayed">No names displayed</string>
+</resources>
